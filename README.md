@@ -18,6 +18,7 @@ Install the required Python packages by running:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Building the Model
 Open the StremLit_ScikitModel_Deploy.ipynb notebook in Jupyter and execute the cells to create and save the machine learning model (classifier.pkl).
